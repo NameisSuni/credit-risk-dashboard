@@ -1,0 +1,142 @@
+[
+  {
+    "customerId": "CUST1001",
+    "name": "Alice Johnson",
+    "monthlyIncome": 6200,
+    "monthlyExpenses": 3500,
+    "creditScore": 710,
+    "outstandingLoans": 15000,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 12500,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1002",
+    "name": "Bob Smith",
+    "monthlyIncome": 4800,
+    "monthlyExpenses": 2800,
+    "creditScore": 640,
+    "outstandingLoans": 20000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "accountBalance": 7300,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1003",
+    "name": "Catherine Lee",
+    "monthlyIncome": 7200,
+    "monthlyExpenses": 4200,
+    "creditScore": 765,
+    "outstandingLoans": 8000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 21000,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1004",
+    "name": "David Martinez",
+    "monthlyIncome": 5600,
+    "monthlyExpenses": 3900,
+    "creditScore": 690,
+    "outstandingLoans": 17000,
+    "loanRepaymentHistory": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 9100,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1005",
+    "name": "Emma Wilson",
+    "monthlyIncome": 5100,
+    "monthlyExpenses": 3100,
+    "creditScore": 580,
+    "outstandingLoans": 25000,
+    "loanRepaymentHistory": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "accountBalance": 5600,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1006",
+    "name": "Frank Thomas",
+    "monthlyIncome": 8300,
+    "monthlyExpenses": 4600,
+    "creditScore": 725,
+    "outstandingLoans": 12000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 18000,
+    "status": "Rejected"
+  },
+  {
+    "customerId": "CUST1007",
+    "name": "Grace Chen",
+    "monthlyIncome": 4700,
+    "monthlyExpenses": 3200,
+    "creditScore": 605,
+    "outstandingLoans": 22000,
+    "loanRepaymentHistory": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 4800,
+    "status": "Approved"
+  }
+]
