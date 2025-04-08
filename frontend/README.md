@@ -86,7 +86,7 @@ riskScore =
 
 ### Getting Started
 
-cd backend
+cd frontend
 npm install
 npm start
 
