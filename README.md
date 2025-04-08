@@ -132,7 +132,7 @@ npm run dev
 
 **🔔 Risk-Based Alert System** - When a customer with risk score > 70 is marked Approved or Review, a POST is triggered to /alerts. - Frontend shows notification; backend logs alert.
 
-**🧪 Mock Database (JSON)** - All customer data is stored in /data/customers.json. - Easily replaceable with MongoDB, PostgreSQL, etc. for production.
+**🧪 Mock Database (JSON)** - All customer data is stored in /db/customers.json. - Easily replaceable with MongoDB, PostgreSQL, etc. for production.
 
 ### 👨‍💻 Author
 
